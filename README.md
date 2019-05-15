@@ -1,4 +1,4 @@
-#Course Introduction to JavaScript Programming - Kyle Simpson - You DON't Know JS
+# Course Introduction to JavaScript Programming - Kyle Simpson - You DON't Know JS
 
 Writing code is nothing more than putting words and phrases into a text editor.
 These words and phrases are specific to the programming language you are writing.
@@ -6,7 +6,7 @@ Kyle compares code syntax to the grammar of a spoken language.
 
 https://frontendmasters.com/courses/javascript-basics/
 
-##Pratice!
+## Pratice!
 
 There is absolutely no substitute for practice in learning programming. No amount of articulate writing on my part is alone going to make you a programmer.
 
